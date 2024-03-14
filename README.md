@@ -14,6 +14,6 @@ These are the improved textures included in this pack:
 -   Improved textures for Characters and Environments.
 -   Save Game Thumbnails (+ Widescreen version).
 -   Fonts from both regional versions and text boxes.
--   (!) Delete the "AWide HUD" folder to play to use the 4:3 textures.
+-   (!) Delete the "AWide HUD" folder to use the 4:3 textures.
 ## How to use
 Click on the "Code" button and select Download ZIP to download the pack. To use this texture pack you need PCSX2. Go into "textures" folder, if it doesn't exist create a folder with the game serial you're going to use (e.g. "SLES-XXXXX"), inside this folder create a folder named "replacements", and extract the texture pack inside. Your address should look something like this: "PCSX2\textures\SLES-XXXXX\replacements". To activate the texture pack, go to "Graphics" settings, "Texture Replacement" tab and activate "Load Textures", "Asynchronous Texture Loading" and "Prechache Textures".
